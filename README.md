@@ -1,0 +1,2 @@
+# DjangoLearningWithBootstrapJQueryActions
+Django learning with bootstrap JQuery actions
